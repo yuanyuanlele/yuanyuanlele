@@ -12,7 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### My GitHub Contributions
-
 ![](https://raw.githubusercontent.com/yuanyuanlele/yuanyuanlele/main/assets/github-contribution-grid-snake.svg)
+<span > <img src="[https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" /> </span>

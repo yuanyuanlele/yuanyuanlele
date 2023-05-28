@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### My GitHub Contributions
 
 ![](https://raw.githubusercontent.com/yuanyuanlele/yuanyuanlele/main/assets/github-contribution-grid-snake.svg)
 

@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://raw.githubusercontent.com/yuanyuanlele/yuanyuanlele/main/assets/github-contribution-grid-snake.svg)
-<span > <img src="(https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" /> </span>
+<span > <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> </span>

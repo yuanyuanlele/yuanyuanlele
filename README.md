@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuanyuanlele/yuanyuanlele/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuanyuanlele/yuanyuanlele/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yuanyuanlele/yuanyuanlele/output/github-contribution-grid-snake.svg">
+</picture>
 ![](https://raw.githubusercontent.com/yuanyuanlele/yuanyuanlele/main/assets/github-contribution-grid-snake.svg)
 
 <span > <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
